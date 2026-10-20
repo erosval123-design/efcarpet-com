@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Garden shed illustration, photo coming soon">
+<rect width="400" height="400" fill="#EFE7D6"/>
+<circle cx="340" cy="330" r="46" fill="#E9DFCB" opacity=".7"/>
+<g transform="translate(400 0) scale(-1 1) translate(200 205) scale(0.92) translate(-200 -205)">
+<path d="M60 300 H340" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M90 300 V170 L200 106 L310 170 V300" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5" stroke-linejoin="round"/>
+<path d="M78 176 L200 98 L322 176" stroke="#B5562F" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<rect x="164" y="200" width="72" height="100" rx="3" fill="#FBF9F4" stroke="#1E4A3D" stroke-width="5"/>
+<path d="M200 204 V296" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="192" cy="252" r="3.5" fill="#1E4A3D"/><circle cx="208" cy="252" r="3.5" fill="#1E4A3D"/>
+<rect x="110" y="200" width="36" height="32" rx="3" fill="#FBF9F4" stroke="#1E4A3D" stroke-width="4"/>
+<path d="M128 200 v32 M110 216 h36" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M98 252 H150 M98 272 H150 M250 252 H302 M250 272 H302" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1 10"/></g>
+</svg>

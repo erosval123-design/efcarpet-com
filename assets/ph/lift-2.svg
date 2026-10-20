@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Car lift illustration, photo coming soon">
+<rect width="400" height="400" fill="#FBF9F4"/>
+<circle cx="70" cy="80" r="46" fill="#E9DFCB" opacity=".7"/>
+<g transform="translate(400 0) scale(-1 1)">
+<path d="M60 300 H340" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="76" y="100" width="22" height="200" rx="3" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5"/>
+<rect x="302" y="100" width="22" height="200" rx="3" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5"/>
+<path d="M98 214 H140 M302 214 H260" stroke="#B5562F" stroke-width="6" stroke-linecap="round"/>
+<path d="M120 200 q4 -38 34 -44 l20 -24 q8 -8 20 -8 h40 q14 0 22 10 l18 22 q30 6 30 44 z" fill="#FBF9F4" stroke="#1E4A3D" stroke-width="5" stroke-linejoin="round"/>
+<path d="M178 156 h72 M210 132 v24" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="158" cy="204" r="16" fill="#F5F0E6" stroke="#1E4A3D" stroke-width="5"/>
+<circle cx="262" cy="204" r="16" fill="#F5F0E6" stroke="#1E4A3D" stroke-width="5"/>
+<path d="M76 100 H324" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

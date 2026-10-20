@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Pergola illustration, photo coming soon">
+<rect width="400" height="400" fill="#F5F0E6"/>
+<circle cx="330" cy="80" r="46" fill="#E9DFCB" opacity=".7"/>
+<g transform="">
+<path d="M70 300 H330" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="88" y="120" width="224" height="22" rx="3" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5"/>
+<path d="M100 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M120 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M140 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M160 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M180 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M200 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M220 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M240 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M260 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/><path d="M280 124 l12 14" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/>
+<path d="M96 142 V298 M304 142 V298 M150 142 V286 M250 142 V286" fill="none" stroke="#1E4A3D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M150 286 H250" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 9"/>
+<path d="M304 160 v30" stroke="#B5562F" stroke-width="4" stroke-linecap="round"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Kayak illustration, photo coming soon">
+<rect width="400" height="400" fill="#EFE7D6"/>
+<circle cx="340" cy="330" r="46" fill="#E9DFCB" opacity=".7"/>
+<g transform="translate(400 0) scale(-1 1) translate(200 205) scale(0.92) translate(-200 -205)">
+<path d="M64 186 Q200 150 336 186 Q300 226 200 230 Q100 226 64 186 Z" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5" stroke-linejoin="round"/>
+<path d="M78 190 Q200 176 322 190" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170 184 q8 -26 30 -26 h18 q8 0 6 10 l-6 18" fill="#FBF9F4" stroke="#1E4A3D" stroke-width="5" stroke-linejoin="round"/>
+<path d="M108 126 L292 254" stroke="#B5562F" stroke-width="5" stroke-linecap="round"/>
+<path d="M100 120 l-10 -8 q-4 -4 2 -8 l12 4 q6 4 2 10 z M300 260 l10 8 q4 4 -2 8 l-12 -4 q-6 -4 -2 -10 z" fill="#B5562F"/>
+<path d="M70 268 q20 -12 40 0 t40 0 t40 0 M210 290 q20 -12 40 0 t40 0 t40 0" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M252 170 l18 -40" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
