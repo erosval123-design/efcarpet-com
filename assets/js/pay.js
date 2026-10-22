@@ -24,8 +24,8 @@ function abs(p){return new URL(p,location.href).href}
 
 function init(f,po){
  var E=efcCart,stripe=Stripe(K),amount=pence();
- var style={base:{fontFamily:'Inter, "Helvetica Neue", Arial, sans-serif',fontSize:'16px',color:'#17211D','::placeholder':{color:'#8A918C'}},invalid:{color:'#B42318',iconColor:'#B42318'}};
- var els=stripe.elements({locale:'en-GB',fonts:[{cssSrc:'https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap'}]});
+ var style={base:{fontFamily:'Manrope, "Helvetica Neue", Arial, sans-serif',fontSize:'16px',color:'#0F1A2B','::placeholder':{color:'#8A918C'}},invalid:{color:'#B42318',iconColor:'#B42318'}};
+ var els=stripe.elements({locale:'en-GB',fonts:[{cssSrc:'https://fonts.googleapis.com/css2?family=Manrope:wght@400;500&display=swap'}]});
  var num=els.create('cardNumber',{style:style,showIcon:true}),exp=els.create('cardExpiry',{style:style}),cvc=els.create('cardCvc',{style:style});
  [['card-number',num],['card-expiry',exp],['card-cvc',cvc]].forEach(function(a){var box=$(a[0]);box.innerHTML='';a[1].mount(box);a[1].on('change',function(ev){err(ev.error?ev.error.message:'')})});
  po.disabled=false;po.removeAttribute('title');

@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Heater illustration, photo coming soon">
-<rect width="400" height="400" fill="#F5F0E6"/>
-<circle cx="60" cy="330" r="46" fill="#E9DFCB" opacity=".7"/>
+<rect width="400" height="400" fill="#EDF2F7"/>
+<circle cx="60" cy="330" r="46" fill="#D9EAEA" opacity=".7"/>
 <g transform="translate(200 205) scale(1.28) translate(-200 -205)">
-<path d="M120 300 H280" fill="none" stroke="#2B6352" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M136 120 Q200 82 264 120 L254 128 Q200 102 146 128 Z" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5" stroke-linejoin="round"/>
-<rect x="184" y="128" width="32" height="44" rx="6" fill="#FBF9F4" stroke="#1E4A3D" stroke-width="5"/>
-<path d="M200 172 V266" fill="none" stroke="#1E4A3D" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M160 296 q0 -30 40 -30 q40 0 40 30 z" fill="#E9DFCB" stroke="#1E4A3D" stroke-width="5" stroke-linejoin="round"/>
-<path d="M200 166 q-14 -12 -2 -30 q2 10 10 12 q8 10 -8 18" fill="#B5562F"/>
-<path d="M150 150 q-10 10 0 20 M250 150 q10 10 0 20 M134 156 q-14 14 0 28 M266 156 q14 14 0 28" stroke="#B5562F" stroke-width="3.5" fill="none" stroke-linecap="round"/></g>
+<path d="M120 300 H280" fill="none" stroke="#1E3A66" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M136 120 Q200 82 264 120 L254 128 Q200 102 146 128 Z" fill="#D9EAEA" stroke="#14284B" stroke-width="5" stroke-linejoin="round"/>
+<rect x="184" y="128" width="32" height="44" rx="6" fill="#F6F8FB" stroke="#14284B" stroke-width="5"/>
+<path d="M200 172 V266" fill="none" stroke="#14284B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 296 q0 -30 40 -30 q40 0 40 30 z" fill="#D9EAEA" stroke="#14284B" stroke-width="5" stroke-linejoin="round"/>
+<path d="M200 166 q-14 -12 -2 -30 q2 10 10 12 q8 10 -8 18" fill="#0A7C74"/>
+<path d="M150 150 q-10 10 0 20 M250 150 q10 10 0 20 M134 156 q-14 14 0 28 M266 156 q14 14 0 28" stroke="#0A7C74" stroke-width="3.5" fill="none" stroke-linecap="round"/></g>
 </svg>
